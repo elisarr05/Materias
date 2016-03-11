@@ -147,6 +147,7 @@
     </Compile>
     <Compile Include="Models\Materias.cs" />
     <Compile Include="Models\MateriasContext.cs" />
+    <Compile Include="Models\test.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
